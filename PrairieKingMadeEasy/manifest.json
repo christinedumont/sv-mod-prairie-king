@@ -1,7 +1,7 @@
 {
   "Name": "PrairieKingMadeEasy",
   "Author": "Mucchan",
-  "Version": "1.1.0",
+  "Version": "2.0.0",
   "Description": "Cheat options for 'Journey of the Prairie King' minigame.",
   "UniqueID": "Mucchan.PrairieKingMadeEasy",
   "EntryDll": "PrairieKingMadeEasy.dll",
