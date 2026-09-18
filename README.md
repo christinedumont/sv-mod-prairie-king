@@ -4,14 +4,15 @@ This is a mod for Stardew Valley which adds cheat options to the minigame *Journ
 
 ### Requirements
 
-Stardew Modding API (SMAPI) 0.39.2 or above.
+Stardew Valley 1.6 or above with SMAPI 4.0.0 or above.
 
 ### Installation
 
-Unpack the mod files into their own directory inside 
-```
-%appdata%\StardewValley\Mods
-```
+Unpack the mod files into their own directory inside your Stardew Valley `Mods` folder, e.g.
+
+- Windows: `C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods`
+- macOS: `~/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/Mods`
+- Linux: `~/.steam/steam/steamapps/common/Stardew Valley/Mods`
 
 ### Configuration
 
